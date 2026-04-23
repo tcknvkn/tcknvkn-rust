@@ -1,0 +1,12 @@
+[package]
+name = "tcknvkn"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "Rust için TCKN (TC Kimlik No) ve VKN (Vergi Kimlik No) doğrulama kütüphanesi."
+repository = "https://github.com/tcknvkn/tcknvkn-rust"
+homepage = "https://www.tcknvkn.com/kutuphaneler/rust"
+documentation = "https://www.tcknvkn.com/kutuphaneler/rust"
+readme = "README.md"
+keywords = ["tckn", "vkn", "tc-kimlik", "vergi-no", "validation"]
+categories = ["algorithms", "text-processing"]
